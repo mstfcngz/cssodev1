@@ -1,0 +1,22 @@
+h1 {
+    color: red;
+    font-size: 30px;
+}
+ul { 
+    list-style-position: inside;
+ }
+ ol {
+     list-style-position: inside; 
+    }
+li {
+    color: black;
+    font-size: 18px;
+}
+a  {
+    color: purple;
+    font-size: 18px;
+}
+h2 {
+    color: purple;
+    font-size: 24px;
+}
